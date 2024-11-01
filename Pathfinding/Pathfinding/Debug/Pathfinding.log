@@ -1,0 +1,7 @@
+﻿  test.c
+F:\c语言\Pathfinding\Pathfinding\test.c(14,7): warning C4013: “srand”未定义；假设外部返回 int
+F:\c语言\Pathfinding\Pathfinding\test.c(14,26): warning C4013: “time”未定义；假设外部返回 int
+F:\c语言\Pathfinding\Pathfinding\test.c(29,14): warning C4013: “rand”未定义；假设外部返回 int
+F:\c语言\Pathfinding\Pathfinding\test.c(118,45): warning C4013: “malloc”未定义；假设外部返回 int
+F:\c语言\Pathfinding\Pathfinding\test.c(189): warning C4716: “Print_Loca”: 必须返回一个值
+  Pathfinding.vcxproj -> F:\c语言\Pathfinding\Pathfinding\Debug\Pathfinding.exe
