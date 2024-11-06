@@ -1,0 +1,6 @@
+﻿  test.c
+F:\c语言\two tree1\test.c(31,47): warning C4013: “malloc”未定义；假设外部返回 int
+F:\c语言\two tree1\test.c(60,1): warning C4133: “初始化”: 从“Sro_tree *”到“Sto_tree *”的类型不兼容
+F:\c语言\two tree1\test.c(75,1): warning C4133: “初始化”: 从“Sro_tree *”到“Sto_tree *”的类型不兼容
+F:\c语言\two tree1\test.c(83,1): warning C4133: “初始化”: 从“Sro_tree *”到“Sto_tree *”的类型不兼容
+  two tree1.vcxproj -> F:\c语言\two tree1\Debug\two tree1.exe
