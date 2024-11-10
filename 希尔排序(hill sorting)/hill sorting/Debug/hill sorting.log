@@ -1,0 +1,3 @@
+﻿  hill sorting.c
+F:\c语言\希尔排序(hill sorting)\hill sorting\hill sorting.c(62,25): warning C4013: “malloc”未定义；假设外部返回 int
+  hill sorting.vcxproj -> F:\c语言\希尔排序(hill sorting)\hill sorting\Debug\hill sorting.exe
