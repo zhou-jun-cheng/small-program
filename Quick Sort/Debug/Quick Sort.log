@@ -1,0 +1,3 @@
+﻿  Quick Sort.c
+F:\c语言\Quick Sort\Quick Sort.c(55,25): warning C4013: “malloc”未定义；假设外部返回 int
+  Quick Sort.vcxproj -> F:\c语言\Quick Sort\Debug\Quick Sort.exe
