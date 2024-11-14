@@ -1,0 +1,9 @@
+﻿  Graph Traversal.c
+F:\c语言\Graph Traversal\Graph Traversal.c(33,53): warning C4013: “malloc”未定义；假设外部返回 int
+F:\c语言\Graph Traversal\Graph Traversal.c(37,30): warning C4133: “=”: 从“Adja_point *”到“Adja_data *”的类型不兼容
+F:\c语言\Graph Traversal\Graph Traversal.c(48,31): warning C4133: “=”: 从“Adja_data *”到“Adja_point *”的类型不兼容
+F:\c语言\Graph Traversal\Graph Traversal.c(55,14): warning C4133: “=”: 从“Adja_data *”到“Adja_point *”的类型不兼容
+F:\c语言\Graph Traversal\Graph Traversal.c(105,36): warning C4133: “=”: 从“Adja_data *”到“Adja_point *”的类型不兼容
+F:\c语言\Graph Traversal\Graph Traversal.c(117,15): warning C4133: “=”: 从“Adja_data *”到“Adja_point *”的类型不兼容
+F:\c语言\Graph Traversal\Graph Traversal.c(122,7): warning C4013: “free”未定义；假设外部返回 int
+  Graph Traversal.vcxproj -> F:\c语言\Graph Traversal\Debug\Graph Traversal.exe
