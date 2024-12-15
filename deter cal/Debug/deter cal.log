@@ -1,3 +1,0 @@
-﻿  deter cal.c
-F:\c语言\deter cal\deter cal.c(115,31): warning C4013: “malloc”未定义；假设外部返回 int
-  deter cal.vcxproj -> F:\c语言\deter cal\Debug\deter cal.exe
